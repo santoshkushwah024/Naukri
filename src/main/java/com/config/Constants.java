@@ -1,5 +1,8 @@
 package com.config;
 
-public class Constants {
+class Constants {
+	public static String Url="http://naukri.com";
+	public static String driverLocation ="E:\\software\\selenium\\chromedriver_win32\\chromedriver.exe";
+	
 
 }
